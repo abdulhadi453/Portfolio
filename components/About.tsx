@@ -81,7 +81,7 @@ export default function About() {
           <p className="text-gray-300 leading-relaxed text-center max-w-4xl mx-auto">
             With a strong foundation in both frontend and backend technologies, I
             specialize in building full-stack applications using modern frameworks
-            like React, Next.js, Node.js, and more. I'm passionate about clean code,
+            like React, Next.js, Node.js, and more. I&apos;m passionate about clean code,
             user experience, and staying up-to-date with the latest web technologies.
           </p>
         </motion.div>

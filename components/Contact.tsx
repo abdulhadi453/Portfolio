@@ -21,10 +21,10 @@ export default function Contact() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Let's <span className="text-accent">Connect</span>
+            Let&apos;s <span className="text-accent">Connect</span>
           </h2>
           <p className="text-gray-400 text-lg mb-12 max-w-2xl mx-auto">
-            I'm always open to discussing new projects, creative ideas, or
+            I&apos;m always open to discussing new projects, creative ideas, or
             opportunities to be part of your vision.
           </p>
 
