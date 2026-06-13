@@ -1,0 +1,10 @@
+// Add images to this folder for your projects
+// Recommended size: 1200x800px
+// Supported formats: .jpg, .png, .webp (webp recommended for performance)
+
+// Example usage in Projects.tsx:
+// {
+//   title: "My Project",
+//   image: "/projects/my-project.png",
+//   ...
+// }

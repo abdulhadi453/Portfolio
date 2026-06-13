@@ -1,0 +1,16 @@
+{
+  "name": "Portfolio",
+  "short_name": "Portfolio",
+  "description": "Modern developer portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#32CD32",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
